@@ -1,3 +1,4 @@
+
 ### Olá, Eu sou o Taylor Tomé 👋🏻
 
 [![Linkedin](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/taayllort/)
@@ -15,6 +16,6 @@
    <img align="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
    <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
    <img align="center" alt="html5" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-</div>
+</div><br/>
 
 Entusiasta da tecnologia dando os primeiros passos no desenvolvimento de software. Comprometido em adquirir habilidades para me tornar um programador competente.
