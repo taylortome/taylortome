@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">⚙ Tenho experiência em trabalhar com Python, SQL e Power BI, utilizando essas ferramentas para extrair insights valiosos que impulsionam o sucesso dos negócios.<br><br>📚 Estou cursando Análise e Desenvolvimento de Sistemas, focando na área de dados para me tornar um especialista reconhecido no campo.</p>
+<p align="left">⚙ Sou um Analista de Dados apaixonado por tecnologia e dados, tenho experiência em trabalhar com Python, SQL e Power BI, utilizando essas ferramentas para extrair insights valiosos que impulsionam o sucesso dos negócios.<br><br>📚 Estou cursando Análise e Desenvolvimento de Sistemas, focando na área de dados para me tornar um especialista reconhecido no campo.</p>
 
 ###
 
